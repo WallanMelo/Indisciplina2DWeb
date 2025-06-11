@@ -1,4 +1,4 @@
-## Indisciplina2DWeb
+## Indisciplina 2D 
 
 ### Introdução
 ##### Imagine um ambiente onde o aprendizado acontece enquanto você se diverte jogando.
@@ -48,6 +48,13 @@ O jogador deve entregar uma lista de alunos ao cozinheiro da escola, mas precisa
 #### Valores: 
 O desafio é encontrar e devolver a bolsa da professora, que foi perdida na escola. A fase ensina que agir com honestidade é fundamental, mesmo quando ninguém está observando.
 
+
+### Link Úteis
+|Nome                 | Descrição       | GitHub |
+| Thallys Lisboa      | Desenvolvimento Da Versão 1        |        | 
+| Willian Renan       | Desenvolvimento Da Versão 2        |        | 
+| Wallan De Melo Lima | Desenvolvimento Da Versão 3 - Web  |        |
+| Display             | Laboratório             |        |
 
 ##### Acesse aqui: https://wallanmelo7.itch.io/indisciplina-2d
 
