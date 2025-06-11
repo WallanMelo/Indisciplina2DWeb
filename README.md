@@ -23,7 +23,7 @@ Cada fase do jogo trabalha um valor essencial para a formação cidadã, incenti
 A proposta convida o jogador a tomar decisões baseadas em princípios morais, impactando diretamente no andamento das fases. Essa dinâmica estimula a reflexão crítica sobre comportamento, convivência e empatia dentro e fora da escola.
 
 
-### A Ferramenta por Trás do Jogo
+### As Ferramentas por Trás do Jogo
 #### 🎮 Unity
 Para o desenvolvimento do Indisciplina 2D Web, foi utilizada a engine Unity, uma das plataformas mais populares e versáteis na criação de jogos digitais. A escolha pela Unity se deu pela sua capacidade de exportação para WebGL, permitindo que o jogo fosse jogado diretamente no navegador, sem necessidade de instalação, além da facilidade e familiaridade dos desenvolvedores com a ferramenta. Além disso, a Unity possibilitou a construção de uma interface amigável, interações fluídas e uma experiência visual acessível, mesmo em dispositivos de baixo desempenho. Toda a lógica de jogo, interações com os valores pedagógicos e fases foram programadas manualmente utilizando linguagem C# dentro da engine.
 
