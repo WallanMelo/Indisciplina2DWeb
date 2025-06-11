@@ -60,11 +60,12 @@ O desafio é encontrar e devolver a bolsa da professora, que foi perdida na esco
 
 
 ### Link Úteis
-|Nome                 | Descrição       | GitHub |
+|Nome                 | Descrição                          | GitHub |
+|---------------------|------------------------------------|--------|
 | Thallys Lisboa      | Desenvolvimento Da Versão 1        |        | 
 | Willian Renan       | Desenvolvimento Da Versão 2        |        | 
 | Wallan De Melo Lima | Desenvolvimento Da Versão 3 - Web  |        |
-| Display             | Laboratório             |        |
+| Display             | Laboratório                        |        |
 
 ##### Acesse aqui: https://wallanmelo7.itch.io/indisciplina-2d
 
