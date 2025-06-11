@@ -62,10 +62,10 @@ O desafio é encontrar e devolver a bolsa da professora, que foi perdida na esco
 ### Link Úteis
 |Nome                 | Descrição                          | GitHub |
 |---------------------|------------------------------------|--------|
-| Thallys Lisboa      | Desenvolvimento Da Versão 1        |        | 
-| Willian Renan       | Desenvolvimento Da Versão 2        |        | 
-| Wallan De Melo Lima | Desenvolvimento Da Versão 3 - Web  |        |
-| Display             | Laboratório                        |        |
+| Thallys Lisboa      | Desenvolvimento Da Versão 1        |[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThallysLisboa)        | 
+| Willian Renan       | Desenvolvimento Da Versão 2        |[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillRenan)| 
+| Wallan De Melo Lima | Desenvolvimento Da Versão 3 - Web  |[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WallanMelo)|
+| Display             | Laboratório                        |[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DisplayLabIF)|
 
 ##### Acesse aqui: https://wallanmelo7.itch.io/indisciplina-2d
 
