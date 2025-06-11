@@ -24,12 +24,22 @@ A proposta convida o jogador a tomar decisões baseadas em princípios morais, i
 
 
 ### A Ferramenta por Trás do Jogo
+#### 🎮 Unity
 Para o desenvolvimento do Indisciplina 2D Web, foi utilizada a engine Unity, uma das plataformas mais populares e versáteis na criação de jogos digitais. A escolha pela Unity se deu pela sua capacidade de exportação para WebGL, permitindo que o jogo fosse jogado diretamente no navegador, sem necessidade de instalação, além da facilidade e familiaridade dos desenvolvedores com a ferramenta. Além disso, a Unity possibilitou a construção de uma interface amigável, interações fluídas e uma experiência visual acessível, mesmo em dispositivos de baixo desempenho. Toda a lógica de jogo, interações com os valores pedagógicos e fases foram programadas manualmente utilizando linguagem C# dentro da engine.
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+#### 💻 Visual Studio
+Para a codificação do jogo, foi utilizado o Visual Studio, um ambiente de desenvolvimento integrado (IDE) robusto e altamente compatível com a Unity. Ele ofereceu recursos como autocompletar, depuração eficiente e integração com o versionamento, facilitando a organização e manutenção do código.
+
+####  🧠 C#
+Toda a lógica do jogo foi programada utilizando a linguagem C#, amplamente adotada no desenvolvimento com Unity. A escolha se deu por sua clareza sintática, estrutura orientada a objetos e grande suporte da comunidade. C# permitiu implementar desde os controles de personagem até as condições pedagógicas e mecânicas de cada fase.
+
+####  🌐 Itch.io
+Para disponibilizar o jogo de forma gratuita e acessível, foi utilizada a plataforma Itch.io, que permite hospedar jogos em inúmeros formatos, no caso escolhemos o WebGL, além disso a plataforma facilita o compartilhamento com o público. Sua interface intuitiva e o suporte a jogos educacionais foram ideais para publicar o Indisciplina 2D Web.
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ### O Jogo
 A jornada começa com o personagem a caminho da escola, que deve enfrentar desafios cotidianos do ambiente escolar como o desrespeito às regras, a evasão de responsabilidades e a convivência com colegas.
